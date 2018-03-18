@@ -1,2 +1,4 @@
 Test 1
-2,se borrará luego del checkout?
+2
+3
+4
